@@ -9,13 +9,13 @@ body{
     height: 100vh;
     background-color: rgb(32, 35, 48);
 }
-#logo{
+/* #logo{
     position: absolute;
     top: 10%;
     left: 20%;
     transform: translate(-50%, -50%);
     animation: fill 4s ease forwards 4s;
-}
+} */
 
 #logo path:nth-child(1){
     stroke-dasharray: 339.0343933105469px;
