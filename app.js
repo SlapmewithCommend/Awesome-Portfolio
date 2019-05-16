@@ -14,3 +14,10 @@
 //     document.getElementById("navbar").style.top = "-50px";
 //   }
 // }
+$(document).ready(function () {
+    setTimeout(function () { alert("Sorry, This website is under construction."); }, 5000)
+})
+
+$(document).ready(function () {
+    setTimeout(function () { alert("Have a peek of the current progress."); }, 6000)
+})
